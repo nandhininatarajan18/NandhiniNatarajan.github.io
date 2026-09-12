@@ -9,18 +9,18 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://scholar.google.com/citations?user=4cJ136gAAAAJ&hl=en"
 
-  - title: "Talks"
+  - title: "Conference Presentations"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - #title: "Teaching"
+    #url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - #title: "Portfolio"
+    #url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Nandhini's Neuro-memes"
     url: /year-archive/
     
   - title: "CV"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  - #title: "Guide"
+    #url: /markdown/
