@@ -14,10 +14,10 @@ main:
   - title: "Conference Presentations"
     url: /talks/    
 
-  - #title: "Teaching"
+  #- title: "Teaching"
     #url: /teaching/    
     
-  - #title: "Portfolio"
+  #- title: "Portfolio"
     #url: /portfolio/
         
   - title: "Nandhini's Neuro-memes"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - #title: "Guide"
+  #- title: "Guide"
     #url: /markdown/
