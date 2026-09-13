@@ -29,8 +29,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #Short biography for the left-hand sidebar
   location         : "Jyväskylä, Finland"
-  employer         : "Centre of Excellence in Music, Mind, Body and Brain; University of Jyväskylä"
-  uri              : "https://www.jyu.fi/en/research/centres-of-excellence/mmbb"
+  employer         : "University of Jyväskylä"
+  #uri              : #"https://www.jyu.fi/en/research/centres-of-excellence/mmbb"
   email            : #email
 
   # Academic websites
