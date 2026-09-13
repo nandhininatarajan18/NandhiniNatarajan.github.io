@@ -25,13 +25,13 @@ repository               : "nandhininatarajan18/NandhiniNatarajan.github.io"
 author:
   # Biographic information
   avatar           : "Profile_Pic.JPG"
-  name             : "Doctoral Researcher | Music and Neuroscience"
+  name             : "Nandhini Natarajan"
   pronouns         : # example: "she/her"  
   bio              : #Short biography for the left-hand sidebar
   location         : "Jyväskylä, Finland"
   employer         : "Centre of Excellence in Music, Mind, Body and Brain; University of Jyväskylä"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://www.jyu.fi/en/research/centres-of-excellence/mmbb"
+  email            : #email
 
   # Academic websites
   academia         : # URL
